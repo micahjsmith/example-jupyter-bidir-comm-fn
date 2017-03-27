@@ -1,0 +1,6 @@
+beginning of js  main.min.js:3:5
+executing a.description_store.set_description('bob')  main.min.js:37:5
+end of js  main.min.js:41:5
+stream  main.min.js:5:9
+Object { metadata: Object, buffers: Array[0], msg_id: "71aba620-437d140c3a9b7536c2e8fec9", msg_type: "stream", content: Object, parent_header: Object, header: Object, channel: "iopub" }  main.min.js:6:9
+[set_description] description set to bob
